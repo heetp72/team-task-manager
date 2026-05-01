@@ -79,3 +79,21 @@ Submission checklist
 - GitHub Repository Link: add your repository URL
 - README file: upload this README.txt
 - Demo video: record 2-5 minutes showing signup/login, admin project creation, task assignment, dashboard stats, member status update, and overdue/progress tracking
+<img width="1920" height="1080" alt="Screenshot (626)" src="https://github.com/user-attachments/assets/6e50ff31-8805-4455-bded-ccaa128a5063" />
+<img width="1920" height="1080" alt="Screenshot (625)" src="https://github.com/user-attachments/assets/52a43263-fc2a-4d4e-9bbf-dda008ae35ce" />
+<img width="1920" height="1080" alt="Screenshot (624)" src="https://github.com/user-attachments/assets/5bbf83f1-c198-4a64-87f8-b576e357d254" />
+<img width="1920" height="1080" alt="Screenshot (623)" src="https://github.com/user-attachments/assets/44a9a6e6-841f-4d5b-a675-af45fe57a781" />
+<img width="1920" height="1080" alt="Screenshot (622)" src="https://github.com/user-attachments/assets/0d160d4a-99e8-40ab-8f19-7ebf90ef9e5b" />
+<img width="1920" height="1080" alt="Screenshot (621)" src="https://github.com/user-attachments/assets/9ab7460f-b11f-4b01-a15f-578b60c1a8ee" />
+<img width="1920" height="1080" alt="Screenshot (620)" src="https://github.com/user-attachments/assets/13788bdb-c269-4b1e-a40e-f65cdf948180" />
+<img width="1920" height="1080" alt="Screenshot (619)" src="https://github.com/user-attachments/assets/439860ca-538e-4c97-8b38-181e3d7c499d" />
+<img width="1920" height="1080" alt="Screenshot (618)" src="https://github.com/user-attachments/assets/f451f288-6acd-47db-a151-5b834d15035f" />
+<img width="1920" height="1080" alt="Screenshot (617)" src="https://github.com/user-attachments/assets/972d5faa-6ee3-4290-830a-e73b31d92429" />
+
+
+
+
+
+
+
+
